@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/characters">
+        <file>assets/player1_stand.png</file>
+        <file>assets/player1_crouch.png</file>
+        <file>assets/player1_jump.png</file>
+        <file>assets/player2_crouch.png</file>
+        <file>assets/player2_jump.png</file>
+        <file>assets/player2_stand.png</file>
+    </qresource>
+    <qresource prefix="/items">
+        <file>assets/weapon_knife.png</file>
+        <file>assets/weapon_rifle.png</file>
+        <file>assets/weapon_sniper.png</file>
+        <file>assets/armor_light.png</file>
+        <file>assets/weapon_solidball.png</file>
+        <file>assets/exp_orb.png</file>
+        <file>assets/armor_vest.png</file>
+        <file>assets/equip_bandage.png</file>
+        <file>assets/equip_medkit.png</file>
+        <file>assets/equip_adrenaline.png</file>
+    </qresource>
+    <qresource prefix="/projectiles">
+        <file>assets/bullet.png</file>
+        <file>assets/gaster_blaster.png</file>
+        <file>assets/solid_ball.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>assets/background.png</file>
+    </qresource>
+    <qresource prefix="/terrain">
+        <file>assets/land.PNG</file>
+        <file>assets/grass.png</file>
+        <file>assets/ice.png</file>
+        <file>assets/land(true).png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>assets/game_icon.ico</file>
+    </qresource>
+</RCC>
